@@ -4,7 +4,7 @@ Below is a **ready‑to‑paste `README.md`** that documents the contents of you
 ```markdown
 # AgileTribers Internship Portfolio
 > **Role:** Data Analysis Intern  
-> **Internship Period:** May – July 2025  
+> **Internship Period:** April– July 2025  
 > **Organization:** [AgileTribers](https://agiletribers.com)
 
 Welcome to the repository containing **all artefacts, tasks, and resources** created during my six‑week Data Analysis Internship at AgileTribers.  
@@ -94,22 +94,5 @@ This repository is shared for academic and portfolio purposes.
 All proprietary PDFs provided by AgileTribers remain the organization’s intellectual property.
 Feel free to fork or reference the code / notebooks, but **please do not redistribute the proprietary PDFs**.
 
----
 
-*Last updated: **07 July 2025***
 
-````
-
-### How to use
-
-1. **Copy** everything inside the code‑block above.
-2. **Create** a new file named `README.md` in the root of your cloned repo.
-3. **Paste** the content and commit:
-
-```bash
-git add README.md
-git commit -m "Add comprehensive README"
-git push origin main
-````
-
-That’s it! You now have a clear, professional README that showcases your internship work. If you’d like any tweaks—badges, images, or more detailed setup steps—just let me know.
